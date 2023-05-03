@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>HMI - Tags</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -12,18 +12,34 @@
 <table class="table">
     <thead>
         <tr>
-            <th></th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.TagName)*@
+                Tag name
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.TagValue)*@
+                Tag value
+            </th>
+            <th>
+                Details / Edit
+            </th>
         </tr>
     </thead>
     <tbody>
-@*@foreach (var item in Model) {
+@foreach (var item in Model) {
         <tr>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.DisplayFor(modelItem => item.TagName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TagValue)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.ID  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+                @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
             </td>
         </tr>
-}*@
+}
     </tbody>
 </table>

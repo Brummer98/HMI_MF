@@ -3,15 +3,21 @@
     public class TagModel
     {
         // Properties
-        private int ID { get; set; }
-        private string TagName { get; set; }
-        private int TagValue { get; set; }
-       
+        public int ID { get; set; }
+        public string TagName { get; set; }
+        public int TagValue { get; set; }
+
         // Constructors
-        public TagModel(string tagname, int tagValue)
+        public TagModel(int id, string tagname, int tagValue)
         {
-            this.TagName = tagname; 
+            this.ID = id;
+            this.TagName = tagname;
             this.TagValue = tagValue;
+        }
+
+        public TagModel() 
+        { 
+        
         }
     }
 }
