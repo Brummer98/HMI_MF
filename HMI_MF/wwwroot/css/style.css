@@ -22,7 +22,17 @@ body {
     padding: 2%;
     border: 2px solid black;
     border-radius: 10px;
-    max-width: 65% !important;
+    max-width: 85% !important;
+    text-align: center !important;
+}
+
+.containerSortingUnit {
+    /* Testing container properties etc */
+    background-color: #eee;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center !important;
 }
 
 .rowStatusbox {

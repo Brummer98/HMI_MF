@@ -16,7 +16,54 @@
 <body>
 
 <div class="container-fluid containerMain">
-    <div class="row">
+        <div class="container-fluid containerProcessControl">
+            <h1>Process control</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Tag name
+                        </th>
+                        <th>
+                            Tag value
+                        </th>
+                        <th>
+                            Edit
+                        </th>
+                        <th>
+                            Details
+                        </th>
+                        <th>
+                            Process
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TagName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TagValue)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new {  id=item.ID  })
+                            </td>
+                            <td>
+                                @Html.ActionLink("Details", "Details", new { id=item.ID })
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-primary">Start</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+@*    <div class="row">
         <div class="col-sm-4">
             <h3>Warehouse</h3>
             <a href="Warehouse.html"><img class="colimg" src="img/Store_CM.jpg" width="85%" height="auto" /></a>
@@ -63,9 +110,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>*@
 
-    <div class="row">
+@*    <div class="row">
         <div class="col-sm-4">
             <h3>Crane</h3>
             <img class="colimg" src="img/Crane_CM.jpg" width="85%" height="auto" />
@@ -112,9 +159,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>*@
 
-    <div class="row">
+@*    <div class="row">
         <div class="col-sm-4">
             <h3>Oven <img src="img/Alert.png" width="10%" height="auto" /> </h3>
             <img class="colimgOven" src="img/Oven_CM.jpg" width="85%" height="auto" />
@@ -161,11 +208,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>*@
 
-    <div class="row">
+    <h2>Units</h2>
+    <div class="row containerSortingUnit">
         <div class="col-sm-4">
-            <h3>Sorting</h3>
+            <h3>Sorting unit</h3>
             <img class="colimg" src="img/Warehouse_CM.jpg" width=85%" height="auto" />
         </div>
         <div class="col-sm-8">
@@ -212,52 +260,7 @@
         </div>
     </div>
 
-    <div class="container-fluid containerProcessControl">
-        <h1>Process control</h1>
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>
-                        Tag name
-                    </th>
-                    <th>
-                        Tag value
-                    </th>
-                    <th>
-                        Edit
-                    </th>
-                    <th>
-                        Details
-                    </th>
-                    <th>
-                        Process
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TagName)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TagValue)
-                    </td>
-                    <td>
-                        @Html.ActionLink("Edit", "Edit", new {  id=item.ID  })
-                    </td>
-                    <td>
-                        @Html.ActionLink("Details", "Details", new { id=item.ID })
-                    </td>
-                    <td>
-                        <button type="button" class="btn btn-primary">Start</button> 
-                    </td>
-                </tr>
-            }
-            </tbody>
-        </table>
-    </div>
+   
 </div>
 
 
