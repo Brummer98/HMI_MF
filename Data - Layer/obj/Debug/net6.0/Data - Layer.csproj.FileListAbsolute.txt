@@ -1,0 +1,27 @@
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\bin\Debug\net6.0\Data - Layer.deps.json
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\bin\Debug\net6.0\Data - Layer.dll
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\bin\Debug\net6.0\Data - Layer.pdb
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.csproj.AssemblyReference.cache
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.AssemblyInfoInputs.cache
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.AssemblyInfo.cs
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.csproj.CoreCompileInputs.cache
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.csproj.CopyComplete
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.dll
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\refint\Data - Layer.dll
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\Data - Layer.pdb
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\obj\Debug\net6.0\ref\Data - Layer.dll
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\bin\Debug\net6.0\Interfaces.dll
+C:\Users\bram9\source\repos\TEST_ASP\Data - Layer\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\bin\Debug\net6.0\Data - Layer.deps.json
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\bin\Debug\net6.0\Data - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\bin\Debug\net6.0\Data - Layer.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.csproj.AssemblyReference.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.AssemblyInfoInputs.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.AssemblyInfo.cs
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.csproj.CoreCompileInputs.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\refint\Data - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\Data - Layer.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Data - Layer\obj\Debug\net6.0\ref\Data - Layer.dll

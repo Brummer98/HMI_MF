@@ -1,0 +1,15 @@
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\bin\Release\net6.0\Business - Layer.deps.json
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\bin\Release\net6.0\Business - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\bin\Release\net6.0\Business - Layer.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\bin\Release\net6.0\Data - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\bin\Release\net6.0\Data - Layer.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.csproj.AssemblyReference.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.AssemblyInfoInputs.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.AssemblyInfo.cs
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.csproj.CoreCompileInputs.cache
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.csproj.CopyComplete
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\refint\Business - Layer.dll
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\Business - Layer.pdb
+C:\Users\bram9\source\repos\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\obj\Release\net6.0\ref\Business - Layer.dll
