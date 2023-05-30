@@ -10,7 +10,7 @@ namespace HMI_MF.Controllers
 {
     public class TagController : Controller
     {
-        // Configurator and logger 
+        // Configurator and logger
         private readonly IConfiguration configuration;
         private readonly ILogger<TagController> _logger;
 
