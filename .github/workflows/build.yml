@@ -44,5 +44,6 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"Brummer98_HMI_MF" /o:"brummer98" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build Business - Layer/TagCollection.cs
+          dotnet restore Business - Layer/TagCollection.cs 
+          dotnet build Business - Layer/TagCollection.cs --configuration Release
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
