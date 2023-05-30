@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AdvancedHMI\AdvancedHMIv399xR1\Business - Layer\Business - Layer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
